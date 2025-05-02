@@ -24,4 +24,4 @@ The **Fund Me** repository showcases a decentralized crowdfunding smart contract
 
 ---
 
-This doesnt actually function completey, but the it builds my portfolio
+This doesnt actually function completey, but the adds builds to my portfolio.
