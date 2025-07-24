@@ -24,4 +24,3 @@ The **Fund Me** repository showcases a decentralized crowdfunding smart contract
 
 ---
 
-This doesnt actually function completey because of course, but the adds builds to my portfolio. A functional one will be added soon
